@@ -6,7 +6,7 @@ The dataset composes of 20 features and 1 response, the revenue of which boolean
 # Objective
 In this project, we are set to use given infomration to streamline classification machine learning models in order to predict the binary outcome of the target variable.
 we will clean, manipulate and explore data through readerable visualization to capture interesting trend and pattern.
-Analyze features' relationship with the target using classification machine learning algorithms, and enhance its capacity to predict binary outcome customer behavior in binary term
+Analyze features' relationship with the target using classification machine learning algorithms, and enhance its capacity to predict binary outcome of customer behavior in binary term
 
 # Feature Information:
 The dataset consists of 10 numerical and 8 categorical features, and 2 Booleans including the response, the 'Revenue' 
