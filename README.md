@@ -1,11 +1,11 @@
 # Dataset Information:
 
-The dataset consists of feature vectors belonging to 12,330 sessions to a e-commerce webpage. The dataset was formed by each session or visit belong to different users for a 1 year period of time to sssion would belong to avoid any tendency to a specific campaign, special day, user profile, or period.
+The dataset consists of feature vectors belonging to 12,330 sessions to a e-commerce webpage. The dataset was formed by each session or visit belongs to different users for a 1 year period of time to sssion would belong to avoid any tendency to a specific campaign, special day, user profile, or period.
 The dataset composes of 20 features and 1 response, the revenue of which boolean value indicates whether a session or a visit was ended with purchase or not. 
 
 # Objective
 In this project, we are set to use given infomration to streamline classification machine learning models in order to predict the binary outcome of the target variable.
-we will clean and manipulate data, explore data through readerable visualization to capture interesting trend and pattern.
+we will clean, manipulate and explore data through readerable visualization to capture interesting trend and pattern.
 Analyze features' relationship with the target using classification machine learning algorithms, and enhance its capacity to predict binary outcome customer behavior in binary term
 
 # Feature Information:
@@ -16,7 +16,7 @@ The dataset consists of 10 numerical and 8 categorical features, and 2 Booleans 
 **"Administrative"**, **"Administrative Duration"**, **"Informational"**, **"Informational Duration"**, **"Product Related"** and **"Product Related Duration"** represent the number of different types of pages visited by the visitor in that session and total time spent in each of these page categories.
 
 
-The values of these features are derived from the URL information of the pages visited by the user and updated in real time when a user takes an action.
+The values of these features are derived from the URL information of the pages visited by the user, and updated in real time when a user takes an action.
 
 
 **"Bounce Rate"**, **"Exit Rate"** and **"Page Value"** features represent the metrics measured by "Google Analytics" for each page in the e-commerce site.
